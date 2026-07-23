@@ -1,0 +1,6 @@
+{
+  "name": "Gesture Control Mouse",
+  "description": "Controle o mouse no Windows por gestos de mão com webcam, incluindo cliques, rolagem, atalhos e geração de executável Python/Windows.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
